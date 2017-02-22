@@ -2,6 +2,8 @@
 
 This repository provides simple scripts to set up a [PostGIS](http://www.postgis.net) database with administrative features (federal states, administrative regions, districts etc.) of Germany.
 
+![Verwaltungsgebiete - Screenshot aus QGIS](assets/images/Verwaltungsgebiete.png)
+
 # Prerequisites
 
 Provided scripts assume a locally installed PostGIS database with a `postgres` superuser.
@@ -15,8 +17,6 @@ Provided scripts do the following:
 * Import the downloaded shape files into the `VG` database
 
 # Layers
-
-![Verwaltungsgebiete - Screenshot aus QGIS](assets/images/Verwaltungsgebiete.png)
 
 The scripts import all of the layers:
 
