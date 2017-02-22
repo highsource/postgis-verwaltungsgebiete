@@ -16,6 +16,8 @@ Provided scripts do the following:
 
 # Layers
 
+![Verwaltungsgebiete - Screenshot aus QGIS](assets/images/Verwaltungsgebiete.png)
+
 The scripts import all of the layers:
 
 * VG250_STA - Staat, the country
