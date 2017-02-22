@@ -1,6 +1,6 @@
 # postgis-verwaltungsgebiete
 
-This project provides simple scripts to set up a [PostGIS](http://www.postgis.net) database with administrative features (federal states, administrative regions, districts etc.) of Germany.
+This repository provides simple scripts to set up a [PostGIS](http://www.postgis.net) database with administrative features (federal states, administrative regions, districts etc.) of Germany.
 
 # Prerequisites
 
