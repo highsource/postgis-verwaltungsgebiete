@@ -21,10 +21,10 @@ Provided scripts do the following:
 The scripts import all of the layers:
 
 * VG250_STA - Staat, the country
-* VG250_LAN - Länder, federal states
+* VG250_LAN - LÃ¤nder, federal states
 * VG250_RBZ - Regierungsbezirke, administrative regions
 * VG250_KRS - Kreise, districts
-* VG250_VWG - Verwaltungsgemeinschafte, association of administrations
+* VG250_VWG - Verwaltungsgemeinschaften, association of administrations
 * VG250_GEM - Gemeinden, munucipalities
 * VG250_LI - all of the border lines
 * VG250_PK - center points of municipalities
